@@ -5,3 +5,5 @@ hari selasa
 -belajar administrasi linux
 hari rabu
 -belajar administrasi sistem linux
+hari kamis
+-belajar github
