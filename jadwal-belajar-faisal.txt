@@ -3,3 +3,5 @@ hari senin
 -belajar linux dasar
 hari selasa
 -belajar administrasi linux
+hari rabu
+-belajar administrasi sistem linux
