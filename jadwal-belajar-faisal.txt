@@ -1,3 +1,5 @@
 JADWAL BWLAJAR
 hari senin 
 -belajar linux dasar
+hari selasa
+-belajar administrasi linux
